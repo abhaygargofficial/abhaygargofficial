@@ -2,7 +2,7 @@
 
 Crafting compelling code is not just about syntax; it's the art of translating marketing vision into digital reality. As a marketer who codes, you don't just speak the language of algorithms; you compose the symphony that transforms ideas into a seamless user experience, turning clicks into connections and code into customer engagement.
 <br>
-## 💫 Liitle Bit More About Me
+## 💫 Little Bit More About Me
 <p>🔭 I'm currently working on Unboundify</p>
 <p>👯 I want to collaborate on end-to-endprojects</p>
 <p>💬 Ask me about Marketing</p>
