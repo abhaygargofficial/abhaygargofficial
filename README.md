@@ -4,7 +4,7 @@ Crafting compelling code is not just about syntax; it's the art of translating m
 <br>
 ## 💫 Little Bit More About Me
 <p>🔭 I'm currently working on Unboundify</p>
-<p>👯 I want to collaborate on end-to-endprojects</p>
+<p>👯 I want to collaborate on end-to-end projects</p>
 <p>💬 Ask me about Marketing</p>
 <p>📫 How to reach me? abhay.garg.official@gmail.com</p>
 
